@@ -31,9 +31,6 @@
     margin: auto;
     justify-content: center;
     padding: 50px;
-}
-.heart-gif{
-    /* aspect-ratio: 3/2; */
-    /* object-fit: contain; */
-    mix-blend-mode:color-burn
+    max-width: 500px;
+    max-height: 500px;
 }
